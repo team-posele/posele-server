@@ -1,0 +1,23 @@
+{
+  "name": "posele-server",
+  "version": "1.0.0",
+  "description": "photo processing and pose predition for posele-app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/team-posele/posele-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/team-posele/posele-server/issues"
+  },
+  "homepage": "https://github.com/team-posele/posele-server#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
